@@ -1,0 +1,55 @@
+
+h1{
+  text-align: center;
+
+}
+h3{
+/*
+text-align: center;
+padding-left: 12%;
+padding-right: 17%; */
+width: 50%;
+
+}
+
+.h3{
+  /* margin-top: 5%; */
+  /* margin-bottom: 5%; */
+  margin-left: 24%;
+
+}
+.pmv{
+  padding:5%;
+}
+label{
+  padding: 37%;
+}
+input{
+  padding: 3%;
+
+}
+.pb{
+  width: 50%;
+  padding-left: 23%;
+  font-size: 0.9rem;
+}
+.ic{
+  text-align: center;
+
+}
+.container{
+  margin-left: 35%;
+
+}
+.di{
+  border: 1px black solid;
+  width: 50%;
+  margin-left: 22%;
+  border-radius: 10px;
+}
+hr{
+  width: 90%;
+}
+.dc{
+  padding-left: 10%;
+}
